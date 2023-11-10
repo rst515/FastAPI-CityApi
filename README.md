@@ -1,5 +1,8 @@
 # CityAPI
 ### A simple FastAPI for cities 
+Source: [Intro to FastAPI - The Best Way to Create APIs in Python?
+](https://www.youtube.com/watch?v=kCggyi_7pHg)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ## Setup
 To use this project
